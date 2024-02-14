@@ -1,1 +1,1 @@
-# Análise de teto com IA
+# Análise de texto com IA
